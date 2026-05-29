@@ -1,22 +1,46 @@
 # Roadmap
 
-## Phase 1 - Foundations
+## Phase 1 - Documentation And Canon
 
 - Define high concept.
 - Establish core pillars.
-- Scaffold documentation.
-- Prototype movement.
+- Split GDD into markdown sections.
+- Lock current canon corrections.
+- Keep docs easy to edit.
 
-## Phase 2 - First Playable Prototype
+## Phase 2 - Movement Prototype
 
-- Build a small movement test space.
-- Add basic collectables.
-- Add junk-to-Grunk conversion.
-- Test Shell Dash and camera feel.
+- Build basic third-person controller.
+- Tune run, jump, camera, and Shell Dash.
+- Explore slingshot traversal.
+- Create a small movement playground.
 
-## Phase 3 - Vertical Slice
+## Phase 3 - First Gameplay Loop
 
-- Define first world.
-- Add a small set of expressive rewards.
-- Introduce Shellvis, Shellbert, and one restored beam.
-- Establish the tone of optional weirdness.
+- Add junk pickups.
+- Add Grunk conversion.
+- Add Shellvis shop purchase.
+- Add one cosmetic or dash effect.
+- Save/equip purchased reward.
+
+## Phase 4 - Hub And Beam Prototype
+
+- Block out The Great Shell.
+- Add beam platform.
+- Add one beam restoration flow.
+- Add hub state change after restoration.
+
+## Phase 5 - Vertical Slice
+
+- Define first world, likely Sunny Shore.
+- Add Great Red Lobstrocity or boss-like encounter.
+- Add dialogue overlay.
+- Add optional weirdness breadcrumb.
+- Test the full slice from world entry to hub reward.
+
+## Phase 6 - Production Planning
+
+- Lock milestone criteria.
+- Define content pipeline.
+- Create first production backlog.
+- Identify scope risks before expanding worlds.

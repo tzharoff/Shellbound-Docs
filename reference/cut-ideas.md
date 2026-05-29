@@ -8,6 +8,9 @@ Ideas parked here are not bad. They are just not in the current plan.
 - Damage upgrade paths.
 - Gear with combat stats.
 - Mandatory lore decoding.
+- Heavy inventory management.
+- Generic grassland as a default world.
+- Shellvis converting junk directly into currency.
 
 ## Maybe Later
 
@@ -15,3 +18,5 @@ Ideas parked here are not bad. They are just not in the current plan.
 - Secret symbol translation rewards.
 - Hub displays for rare junk.
 - Shellvis limited-time nonsense offers.
+- Bobblehead collector questline.
+- Emperor's New Shell reactions across every major NPC.

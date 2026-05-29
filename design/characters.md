@@ -1,29 +1,237 @@
 # Characters
 
-## Player Turtle
+## Player Character
 
-A small turtle who restores ancient beams, collects junk, and gradually leaves a more expressive mark on the world.
+Name: TBD
+
+Role: Player / Explorer
+
+Archetype: The Curious Traveler
+
+A small turtle who leaves home after a mysterious disappearance and begins restoring ancient beams that reconnect distant worlds.
+
+The player is not chosen, powerful, or special. They are simply willing to continue.
+
+The player never speaks.
+
+Gameplay role:
+- Movement
+- Exploration
+- Combat
+- Collecting
+- Restoring beams
+
+Personality:
+- Curious
+- Brave
+- Slightly stubborn
+- Quiet
+
+Signature abilities:
+- Jump
+- Shell Dash
+- Slingshot
+
+Arc:
+- Adventure
+- Curiosity
+- Understanding
+- Continuation
 
 ## Shellvis
 
-A suspicious goblin merchant wearing a fake turtle costume.
+Species: Goblin
 
-Shellvis should be funny, useful, and never entirely trustworthy. He likely deals in Grunk, cosmetics, and things he insists are "basically turtle-approved."
+Role: Cosmetic Merchant
+
+Archetype: Questionable Entrepreneur
+
+Shellvis is a goblin merchant operating from The Great Shell hub world.
+
+Shellvis wears an extremely fake turtle costume for reasons nobody questions.
+
+Shellvis does not appraise junk or convert currency. Shellvis sells cosmetics and accepts Grunk.
+
+Gameplay role:
+- Cosmetic merchant
+- Reward loop
+- Hub progression
+
+Personality:
+- Smooth
+- Opportunistic
+- Helpful
+- Slightly suspicious
+
+Dialogue examples:
+- "Pleasure doin' shellness."
+- "Excellent choice."
+- "Rude."
+
+Costume notes:
+- Fake shell
+- Visible straps
+- Shell shifts slightly
+- Goblin features occasionally visible
+- Never explain
 
 ## Shellbert
 
-A recurring symbol-speaking turtle.
+Species: Turtle
 
-Shellbert communicates through signs, symbols, gestures, and maybe the kind of silence that makes players take screenshots.
+Role: Recurring NPC
+
+Archetype: Helpful Cryptid
+
+A recurring turtle encountered in strange places.
+
+Shellbert communicates entirely through symbols and punctuation. Nobody comments on this.
+
+Gameplay role:
+- Optional hints
+- Secret interactions
+- Recurring joke
+
+Dialogue examples:
+- "$!#*@"
+- "&*#!?"
+- "%"
+
+Arc:
+- Appears repeatedly.
+- Final interaction may subtitle Shellbert once.
+
+## Grunk
+
+Species: Goblin
+
+Role: Junk Appraiser
+
+Archetype: Simple Professional
+
+Grunk evaluates junk and converts it into Grunk.
+
+Grunk communicates exclusively using the word:
+
+> Grunk
+
+Everyone understands Grunk except the player. The game never explains this.
+
+Gameplay role:
+- Currency conversion
+- Economy loop
+- Running joke
+
+Arc:
+- None. Grunk has already arrived where Grunk needs to be.
 
 ## The Kid
 
-The emotional and time-weirdness anchor.
+Species: Turtle
 
-The Kid should make the game's strangeness feel personal instead of just decorative.
+Role: Emotional Anchor
+
+Archetype: The Future Traveler
+
+A child encountered repeatedly across worlds.
+
+Sometimes remembers things differently. May appear older in later worlds. Never fully explained.
+
+Gameplay role:
+- Narrative continuity
+- Tone shift
+- Time weirdness
+
+Dialogue examples:
+- "You look familiar."
+- "Do things happen more than once?"
+
+Arc:
+- Dream
+- Adventure
+- Memory
+- Hope
+
+## Boss Characters
+
+### Great Red Lobstrocity
+
+Species: Lobstrocity
+
+Role: World Boss
+
+Archetype: Ancient Guardian
+
+A massive red lobster creature encountered at Sunny Shore.
+
+Communicates through fragmented tide speech. Not evil. Very old.
+
+Gameplay role:
+- First major boss
+- Introduce strange language
+
+Dialogue examples:
+- "Red remember."
+- "Not wave. Walker."
+
+Arc:
+- Defeat
+- Leaves peacefully
+
+### Iron Bear
+
+Species: Mechanical Guardian
+
+Role: World Boss
+
+Archetype: Forgotten Protector
+
+A massive mechanical bear deep in Beam Forest.
+
+Old machinery still attempting to complete its purpose.
+
+Dialogue example:
+- "PATH... FOUND..."
+
+Arc:
+- Protection
+- Rest
+- Silence
 
 ## The Great Turtle
 
-The final mysterious figure.
+Species: Unknown
 
-The Great Turtle should feel ancient, inevitable, and not fully explained too early.
+Role: Final Character
+
+Archetype: The Witness
+
+The ancient being tied to the shell network.
+
+Not god. Not ruler. Just impossibly old.
+
+Dialogue examples:
+- "Looking for someone?"
+- "Time is funny here."
+- "Leave the beam on."
+
+Arc:
+- Unknown.
+
+## Supporting NPCs
+
+- Hub turtles
+- Travelers
+- World residents
+- Bobblehead collectors
+- Background merchants
+
+## Cast Purpose
+
+- Player -> Move
+- Shellvis -> Reward
+- Grunk -> Conversion
+- Shellbert -> Mystery
+- The Kid -> Emotion
+- Bosses -> Lore
+- The Great Turtle -> Meaning
