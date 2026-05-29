@@ -9,6 +9,9 @@ The surface story should stay clear and playable. The deeper story can be strang
 ## Narrative Rules
 
 - The player should always understand the immediate goal.
+- Playing should matter more than reading.
+- Dialogue should use short sentences.
+- Most story should be implied through action, places, characters, and changes in the world.
 - Deeper lore should reward curiosity.
 - Weirdness should be subtle, not homework.
 - Some characters may remember things differently.
@@ -37,6 +40,24 @@ Characters display:
 - Optional prompt
 
 Portraits use simple animation. No full facial animation.
+
+See [Dialogue System](dialogue-system.md) for the build-facing V1 runtime plan.
+
+V1 dialogue is linear, state-reactive, and continue-prompt driven. The player turtle does not speak or choose responses in the first implementation.
+
+The first prototype should validate Shellvis and Grunk interactions before expanding into boss introductions, optional lore sequences, or more complex NPC behavior.
+
+## Dialogue Writing Rules
+
+- Keep lines short.
+- Prefer one idea per line.
+- Avoid long explanations.
+- Avoid lore dumps.
+- Let the player return to movement quickly.
+- Use dialogue to point, joke, react, or hint.
+- Put deeper story in optional details, repeated patterns, and world changes.
+
+Good Shellbound dialogue should feel like a quick interaction, not a reading assignment.
 
 ## Portrait Animation Style
 

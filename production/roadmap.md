@@ -18,6 +18,9 @@
 ## Phase 3 - First Gameplay Loop
 
 - Add junk pickups.
+- Evaluate and implement dialogue V1.
+- Add Shellvis and Grunk introduction dialogue.
+- Add local JSON flags for first NPC interactions.
 - Add Grunk conversion.
 - Add Shellvis shop purchase.
 - Add one cosmetic or dash effect.

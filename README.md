@@ -45,6 +45,7 @@ No app framework. No docs generator. No package manager. Just editable markdown 
 - [Characters](design/characters.md) - Player turtle, Shellvis, Grunk, Shellbert, The Kid, bosses, and The Great Turtle.
 - [Enemies](design/enemies.md) - Enemy philosophy, standard enemies, elites, bosses, and difficulty.
 - [Dialogue And Narrative](design/dialogue-narrative.md) - Story rules, dialogue UI, boss intros, time weirdness, and optional lore.
+- [Dialogue System](design/dialogue-system.md) - V1 dialogue runtime plan, save flags, prototype scope, and validation criteria.
 
 ### Presentation And Technical
 
@@ -66,6 +67,7 @@ No app framework. No docs generator. No package manager. Just editable markdown 
 - [DDR-0001 - Progression Is Expression](decisions/0001-progression-is-expression.md)
 - [DDR-0002 - Shellvis Sells, Grunk Converts](decisions/0002-shellvis-sells-grunk-converts.md)
 - [DDR-0003 - Start In Hub World](decisions/0003-start-in-hub-world.md)
+- [DDR-0004 - Dialogue V1 Uses Yarn If Acceptable](decisions/0004-dialogue-v1-yarn-evaluation.md)
 - [Glossary](reference/glossary.md)
 - [Naming](reference/naming.md)
 - [Cut Ideas](reference/cut-ideas.md)
@@ -76,6 +78,7 @@ No app framework. No docs generator. No package manager. Just editable markdown 
 - [Devlog 0001 - Documenting The Process](devlog/0001-documenting-the-process.md)
 - [Devlog 0002 - Validating The Devlog Structure](devlog/0002-validating-the-devlog-structure.md)
 - [Devlog 0003 - Foundations](devlog/0003-foundations.md)
+- [Devlog 0004 - Validating The Dialogue System Plan](devlog/0004-validating-dialogue-system-plan.md)
 
 ## Folder Guide
 

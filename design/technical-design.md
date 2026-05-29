@@ -6,7 +6,7 @@ Unity.
 
 ## Architecture
 
-Not defined yet.
+Early architecture should stay small and data-driven.
 
 Early architecture should support:
 - Third-person controller
@@ -19,6 +19,18 @@ Early architecture should support:
 - World completion state
 - Hub state changes
 - Direct boot into `_00_HubWorld`
+
+## Dialogue Architecture
+
+V1 dialogue should use three stable runtime boundaries:
+
+- `DialogueTrigger` starts a named conversation from an NPC or interactable object.
+- `DialogueController` owns start, advance, end, and player-control lockout.
+- `DialogueStateStore` reads and writes named flags to the local JSON save.
+
+Yarn Spinner is the default tool to evaluate. It should be adopted only if it supports custom UI, named nodes, variables or custom variable storage, commands/events, and local JSON persistence cleanly.
+
+If Yarn is not acceptable, use a ScriptableObject fallback while keeping the same runtime boundaries.
 
 ## Scene Flow
 
@@ -47,6 +59,16 @@ Save system needs to track:
 - Hub decorations
 - Collectibles
 - Optional discoveries
+
+First prototype save data should include named boolean flags for dialogue and simple progression checks.
+
+Initial dialogue flags:
+
+- `met_shellvis`
+- `met_grunk`
+- `heard_grunk_weirdness`
+- `junk_converted_once`
+- `cosmetic_purchased_once`
 
 ## Data Structure
 

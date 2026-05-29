@@ -10,6 +10,11 @@
 - Test junk pickup feel.
 - Test Grunk conversion interaction.
 - Test Shellvis shop purchase.
+- Evaluate Yarn Spinner in Unity for dialogue V1.
+- Build `DialogueTrigger`, `DialogueController`, and `DialogueStateStore`.
+- Save dialogue flags to local JSON.
+- Prototype Shellvis first and repeat dialogue.
+- Prototype Grunk first dialogue and weirdness beat.
 
 ## Design
 
@@ -26,6 +31,8 @@
 
 - Write first Shellvis interaction.
 - Write first Grunk interaction.
+- Write Shellvis repeat interaction.
+- Write Grunk weirdness beat.
 - Define Shellbert symbol language rules.
 - Clarify The Kid's role in the first act.
 - Sketch The Great Turtle reveal boundaries.
