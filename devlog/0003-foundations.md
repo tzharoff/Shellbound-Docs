@@ -1,4 +1,4 @@
-# Devlog 0001 - Foundations
+# Devlog 0003 - Foundations
 
 ## Date
 

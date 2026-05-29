@@ -69,10 +69,13 @@ No app framework. No docs generator. No package manager. Just editable markdown 
 - [Glossary](reference/glossary.md)
 - [Naming](reference/naming.md)
 - [Cut Ideas](reference/cut-ideas.md)
+- [Devlog Template](reference/devlog-template.md)
 
 ### Devlog
 
-- [Devlog 0001 - Foundations](devlog/0001-foundations.md)
+- [Devlog 0001 - Documenting The Process](devlog/0001-documenting-the-process.md)
+- [Devlog 0002 - Validating The Devlog Structure](devlog/0002-validating-the-devlog-structure.md)
+- [Devlog 0003 - Foundations](devlog/0003-foundations.md)
 
 ## Folder Guide
 
