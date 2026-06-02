@@ -2,19 +2,32 @@
 
 ## Grunk
 
-Both a goblin character and the currency name.
+Meaning:
+Unknown.
 
-Grunk the character evaluates junk and converts it into Grunk the currency.
+May refer to:
 
-Grunk the currency is spent with Shellvis on cosmetics, dash effects, slingshot variants, and hub decorations.
+- Grunk (the goblin)
+- Grunk (the currency)
+- Grunk (the concept)
+- Grunk (the institution)
+- Grunk (the religion)
 
-Yes, this is intentionally unhelpful. Everyone in the world understands it.
+No canonical explanation exists.
+
+This is intentional.
 
 ## Shellvis
 
-A goblin merchant wearing an extremely fake turtle costume. Shellvis sells cosmetics and accepts Grunk.
+Merchant.
 
-Shellvis does not appraise junk.
+Wears an obviously fake turtle costume.
+
+Operates shops in every world.
+
+Nobody comments on this.
+
+This is also intentional.
 
 ## The Great Shell
 

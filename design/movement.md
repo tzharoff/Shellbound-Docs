@@ -63,6 +63,26 @@ Possible uses:
 
 The camera needs to support exploration, platforming, and readable combat without fighting the player.
 
+## Damage, Hearts, and Respawn
+
+Current direction:
+
+- Player has 3 Hearts
+- Most enemy hits deal 1 Heart of damage
+- Hazards may deal 1 Heart of damage
+- Losing all Hearts triggers a cartoon knockout/respawn sequence
+- Player respawns at the most recently activated Beam Anchor in the current world
+- Hearts are restored after respawn
+- No traditional lives
+- No Grunk loss
+- No forced return to hub
+
+Design intent:
+
+Failure should create a short setback without discouraging curiosity.
+
+The player should feel safe experimenting with traversal, secrets, and strange spaces.
+
 ## Open Questions
 
 - Does Shell Dash damage enemies, break objects, or only help traversal?

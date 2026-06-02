@@ -22,6 +22,8 @@ Sunny Shore is the current strongest candidate because it can introduce:
 - Simple movement routes
 - A memorable boss with strange speech
 
+See [Sunny Shore](sunny-shore.md) for the first-world flow.
+
 ## Success Metrics
 
 The slice succeeds if players say:

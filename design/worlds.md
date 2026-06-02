@@ -28,6 +28,59 @@ Ancient beams reconnect places that have drifted apart over time.
 
 The player restores beams by exploring worlds, overcoming obstacles, defeating or resolving bosses, and returning connection to broken pathways.
 
+## Beam Anchors
+
+Each world contains several Beam Anchors.
+
+Beam Anchors are ancient anchor-shaped structures connected to the beam network. They serve as the world's checkpoint system and give players a clear sense of safety, progress, and reconnection.
+
+Functions:
+
+- Checkpoint
+- Respawn location
+- Heart restoration
+- Save point
+- Navigation landmark
+- Completion objective
+
+When inactive, anchors are dirty, rusted, mossy, salt-stained, or covered in world-specific grime.
+
+When activated, the player cleans/restores the anchor. The anchor becomes illuminated and visibly reconnected to the beam network.
+
+Design goals:
+
+- Anchors should be visible from a distance.
+- Anchors should help players orient themselves.
+- Anchors should feel like part of the world, not abstract game UI.
+- Each world can theme its anchor grime/restoration around that world's identity.
+
+## Shellvis and Grunk
+
+Every world contains:
+
+- One Shellvis location
+- One Grunk location
+
+These locations should feel naturally integrated into the world.
+
+Examples:
+
+Sunny Shore:
+- Dockside stall
+- Junk pile near the harbor
+
+Endless Tracks:
+- Train station kiosk
+- Cargo sorting area
+
+Forgotten Aquarium:
+- Underwater market
+- Flooded junk exchange
+
+Players should begin noticing that Shellvis and Grunk are always present.
+
+The game should never fully explain why.
+
 ## World Unlocking
 
 World access should be tied to restored beams, hub progression, and exploration.
@@ -59,6 +112,8 @@ Possible direction:
 - Sunny Shore
 - Endless Tracks
 - Beam Forest
+
+See [Sunny Shore](sunny-shore.md) for the first-world flow and vertical-slice structure.
 
 ## Act II - Wonder
 

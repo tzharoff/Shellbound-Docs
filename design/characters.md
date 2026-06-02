@@ -75,6 +75,27 @@ Costume notes:
 - Goblin features occasionally visible
 - Never explain
 
+### World Presence
+
+Shellvis appears in every world.
+
+He always operates a shop.
+
+His stall changes slightly to fit the world.
+
+Shellvis never explains how he arrived.
+
+If asked directly, his answers are evasive, contradictory, or unhelpful.
+
+Examples:
+
+- "Market expansion."
+- "Professionalism."
+- "Seasonal inventory."
+- "Business can."
+
+Shellvis should never appear surprised to be anywhere.
+
 ## Shellbert
 
 Species: Turtle
@@ -103,19 +124,23 @@ Arc:
 
 ## Grunk
 
-Species: Goblin
+Species: Unknown
 
-Role: Junk Appraiser
+Role: Currency Exchange NPC
 
 Archetype: Simple Professional
 
-Grunk evaluates junk and converts it into Grunk.
+Players sell junk to Grunk.
+
+Grunk pays players in Grunk.
 
 Grunk communicates exclusively using the word:
 
 > Grunk
 
-Everyone understands Grunk except the player. The game never explains this.
+Everyone understands Grunk except the player.
+
+Nobody comments on this.
 
 Gameplay role:
 - Currency conversion
@@ -124,6 +149,30 @@ Gameplay role:
 
 Arc:
 - None. Grunk has already arrived where Grunk needs to be.
+
+### World Presence
+
+Grunk appears in every world.
+
+Players sell junk to Grunk in exchange for Grunk.
+
+Grunk only speaks the word:
+
+> Grunk
+
+The game never explains how Grunk travels.
+
+Nobody seems concerned about this.
+
+Some NPCs treat Grunk as:
+
+- a goblin
+- a currency
+- a concept
+- an institution
+- a religion
+
+The game should never confirm which interpretation is correct.
 
 ## The Kid
 

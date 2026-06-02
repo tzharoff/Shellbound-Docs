@@ -17,6 +17,7 @@ The surface story should stay clear and playable. The deeper story can be strang
 - Some characters may remember things differently.
 - Time can be unreliable.
 - The player may perceive the world differently than surrounding characters.
+- When strange communication or naming is normal to the world, nobody comments on it.
 
 ## Reality Perception
 

@@ -7,15 +7,16 @@
 3. Defeat or avoid enemies.
 4. Collect junk.
 5. Restore an ancient beam.
-6. Return to The Great Shell hub.
-7. Bring junk to Grunk.
-8. Receive Grunk.
-9. Spend Grunk with Shellvis.
-10. Unlock expressive rewards, hub changes, and new routes.
+6. Bring junk to Grunk in the current world or hub.
+7. Receive Grunk.
+8. Spend Grunk with Shellvis in the current world or hub.
+9. Unlock expressive rewards, hub changes, and new routes.
 
 ## Economy Loop
 
 Collect Junk -> Bring Junk to Grunk -> Receive Grunk -> Spend Grunk with Shellvis
+
+Shellvis and Grunk appear in every connected world, so the player does not need to return to The Great Shell for basic economy interactions.
 
 ## Beam Loop
 

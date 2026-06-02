@@ -16,16 +16,56 @@
 - Prototype Shellvis first and repeat dialogue.
 - Prototype Grunk first dialogue and weirdness beat.
 
+## Beam Anchor System
+
+- [ ] Design Beam Anchor visual concept
+- [ ] Create inactive Beam Anchor model
+- [ ] Create active Beam Anchor model
+- [ ] Add Beam Anchor activation interaction
+- [ ] Add checkpoint/respawn support
+- [ ] Restore hearts on anchor activation
+- [ ] Respawn player at last activated Beam Anchor
+- [ ] Add Anchor Polish item
+- [ ] Add Anchor Polish purchase flow through Shellvis
+- [ ] Add anchor cleaned/restored state tracking
+- [ ] Add "Clean All The Anchors" achievement
+- [ ] Add Old Sailor's Hat cosmetic reward
+- [ ] Add Shellvis dialogue for Anchor Polish
+
 ## Design
 
-- Define first world.
+- Document Sunny Shore first-world flow.
 - Define health and failure rules.
 - Define slingshot purpose.
 - Define first set of cosmetics.
-- Define Sunny Shore slice.
-- Define Great Red Lobstrocity encounter.
+- Define Sunny Shore island chain layout.
+- Define Great Red Lobstrocity boss-like gate encounter.
+- Define Sailor Cap cosmetic reward.
 - Define bobblehead role.
 - Define completion tracking.
+
+## Sunny Shore
+
+- [ ] Block out Arrival Islet.
+- [ ] Frame bell tower, broken beam, drawbridge, and island chain from arrival.
+- [ ] Build jump-gap island.
+- [ ] Build Shell Dash breakable island.
+- [ ] Build slingshot switch or bridge latch island.
+- [ ] Build Midpoint Dock.
+- [ ] Place Shellvis dockside stall.
+- [ ] Place Grunk harbor junk pile.
+- [ ] Place Arrival Islet Beam Anchor.
+- [ ] Place Midpoint Dock Beam Anchor.
+- [ ] Place Bell Tower Courtyard Beam Anchor.
+- [ ] Place Final Reef / Lobstrocity Approach Beam Anchor.
+- [ ] Build Bell Tower Courtyard.
+- [ ] Hook bell interaction to drawbridge cutaway.
+- [ ] Raise drawbridge after bell interaction.
+- [ ] Build Final Reef route.
+- [ ] Prototype Great Red Lobstrocity as a boss-like guardian gate.
+- [ ] Restore Sunny Shore beam after resolving Lobstrocity encounter.
+- [ ] Unlock Sailor Cap cosmetic after Sunny Shore completion.
+- [ ] Add small Sunny Shore completion change to The Great Shell.
 
 ## Narrative
 

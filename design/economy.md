@@ -10,13 +10,25 @@ Junk is gathered throughout worlds. It can be debris, forgotten objects, odd tre
 
 ## Grunk The Character
 
-Grunk evaluates junk and converts it into Grunk.
+Species: Unknown
 
-Grunk communicates only by saying "Grunk." Everyone understands Grunk except the player. The game never explains this.
+Role: Currency Exchange NPC
+
+Players sell junk to Grunk.
+
+Grunk pays players in Grunk.
+
+Grunk only says the word "Grunk."
+
+Nobody comments on this.
 
 ## Grunk The Currency
 
+The game's currency is also called Grunk.
+
 Grunk is the main economy material for expressive rewards, hub decoration, and other non-power progression.
+
+Players receive Grunk from Grunk after selling junk.
 
 ## Shellvis Shop
 
@@ -28,6 +40,52 @@ Shellvis sells:
 - Special nonsense offers
 
 Shellvis accepts Grunk. Shellvis does not appraise junk.
+
+## Anchor Polish
+
+Shellvis sells Anchor Polish.
+
+Anchor Polish is used to clean and restore Beam Anchors.
+
+Purpose:
+
+- Gives Grunk another practical use
+- Connects Shellvis to world restoration
+- Makes checkpoints feel physical and diegetic
+- Supports the "Clean All The Anchors" achievement
+- Reinforces progression through restoration and expression, not power
+
+Example item:
+
+```txt
+Anchor Polish
+Cost: 25 Grunk
+Description: Makes anchor less embarrassing.
+```
+
+Possible Shellvis dialogue:
+
+```txt
+"Anchor look rough."
+
+"Need polish."
+
+"Conveniently, I sell polish."
+
+"What's in it?"
+
+"Polish."
+
+"Rude."
+```
+
+Late-game joke item:
+
+```txt
+Premium Anchor Polish
+Cost: 500 Grunk
+Description: Mostly polish.
+```
 
 ## Cosmetics
 
